@@ -2,7 +2,6 @@
 
 ## I'm a Kopi O Kosong ☕ lover
 - I'm currently a full-time student
-- I'm currently working as a eCommerce manager
 - Still trying to learn new things here and there
 
 ## Connect with me
