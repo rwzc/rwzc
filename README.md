@@ -2,11 +2,9 @@
 
 ## I'm a Kopi O Kosong ☕ lover
 - I'm currently a full-time student
-- Still trying to learn new things here and there
 
 ## Connect with me
 [Twitter](https://twitter.com/Richard_wzc)
-[Telegram](https://t.me/rw_zc)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
