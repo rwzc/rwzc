@@ -3,8 +3,6 @@
 ## I'm a Kopi O Kosong ☕ lover
 - I'm currently a full-time student
 
-## Connect with me
-[Twitter](https://twitter.com/Richard_wzc)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
