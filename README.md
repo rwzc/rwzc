@@ -7,6 +7,9 @@
 - 💞️ I’m looking to collaborate on projects or doing a startup together.
 - 📫 You can reach me at [6d4134hb6@relay.firefox.com](mailto:6d4134hb6@relay.firefox.com)
 
+## Some fun stuff
+- 📖 A list of books that I've found interesting and helpful [books](https://github.com/rwzc/books)
+- 🎙️ A list of podcasts that I love [podcasts](https://github.com/rwzc/podcasts).
 
 ## Blog posts
 I write sometimes ...
