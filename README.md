@@ -5,7 +5,8 @@
 - 👀 I’m interested in the financial markets, automation, crypto.
 - 🌱 I'm currently learning C++, SQL.
 - 💞️ I’m looking to collaborate on projects or doing a startup together.
-- 📫 You can reach me at [📧](6d4134hb6@relay.firefox.com) 
+- 📫 You can reach me at [6d4134hb6@relay.firefox.com](mailto:6d4134hb6@relay.firefox.com)
+
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
