@@ -9,7 +9,10 @@
 
 
 ## Blog posts
+I write sometimes ...
 <!-- BLOG-POST-LIST:START -->
+- [My Gaming Subculture experience](https://rwzc.netlify.app/my-gaming-subculture-experience/)
+- [Life updates and thoughts from a 25 Years old University student - 12th September 2021](https://rwzc.netlify.app/life-updates-12th-september-2021/)
 - [C19: The shifts in consumer trends](https://rwzc.herokuapp.com/c19-the-shifts-in-consumer-trends/)
 - [My First Post](https://rwzc.herokuapp.com/my-first-post/)
 <!-- BLOG-POST-LIST:END -->
