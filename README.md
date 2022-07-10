@@ -6,12 +6,13 @@ Overall, just trying to do better.
 
 The markets are humbling, so stay humble.
 
+📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/rwzc/) | [6d4134hb6@relay.firefox.com](mailto:6d4134hb6@relay.firefox.com)
+
 ## I'm a Kopi O Kosong ☕ lover
 - 👨‍🎓 I'm currently a final year finance major at SUSS.
 - 👀 I’m interested in the financial markets, automation, crypto.
 - 🌱 I'm currently learning C++, SQL.
 - 💞️ I’m looking to collaborate on projects or doing a startup together.
-- 📫 You can reach me at [6d4134hb6@relay.firefox.com](mailto:6d4134hb6@relay.firefox.com)
 
 ## Some fun stuff
 - 📖 A list of books that I've found interesting and helpful [books](https://github.com/rwzc/books)
