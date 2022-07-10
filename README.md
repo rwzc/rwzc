@@ -1,5 +1,11 @@
 ### Hello there 👋,
 
+I would say I'm a generalist across domains, looking to specialize in a domain in the future. Pretty much I like to use data to create meaningful and actionable insights in my work and side projects. 
+
+Overall, just trying to do better. 
+
+The markets are humbling, so stay humble.
+
 ## I'm a Kopi O Kosong ☕ lover
 - I'm currently a final year finance major at SUSS.
 - 👀 I’m interested in the financial markets, automation, crypto.
@@ -11,8 +17,14 @@
 - 📖 A list of books that I've found interesting and helpful [books](https://github.com/rwzc/books)
 - 🎙️ A list of podcasts that I love [podcasts](https://github.com/rwzc/podcasts).
 
+## My interests 
+- Running, 
+- Weight lifting, 
+- Looking for/validating social-cultural trends
+- Going down the CT rabbit hole. 
+
 ## Blog posts
-I write sometimes ...
+I write sometimes ... my blog is where I write about my thoughts, stories and ideas at [https://rwzc.herokuapp.com](mailto:https://rwzc.herokuapp.com)
 <!-- BLOG-POST-LIST:START -->
 - [My Gaming Subculture experience](https://rwzc.netlify.app/my-gaming-subculture-experience/)
 - [Life updates and thoughts from a 25 Years old University student - 12th September 2021](https://rwzc.netlify.app/life-updates-12th-september-2021/)
