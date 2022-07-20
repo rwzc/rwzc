@@ -12,6 +12,7 @@ The markets are humbling, so stay humble.
 - 👨‍🎓 I'm currently a final year finance major at SUSS.
 - 👀 I’m interested in the financial markets, automation, crypto.
 - 🌱 I'm currently learning C++, SQL.
+- 👨‍💻 with experience in Python, JavaScript, SQL.
 - 💞️ I’m looking to collaborate on projects or doing a startup together.
 
 ## Some fun stuff
