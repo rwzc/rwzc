@@ -16,8 +16,8 @@ The markets are humbling, so stay humble.
 - 💞️ I’m looking to collaborate on projects or doing a startup together.
 
 ## Some fun stuff
-- 📖 A list of books that I've found interesting and helpful [books](https://github.com/rwzc/books)
-- 🎙️ A list of podcasts that I love [podcasts](https://github.com/rwzc/podcasts).
+- 📖 [A list of books](https://github.com/rwzc/books) that I've found interesting and helpful 
+- 🎙️ [A list of podcasts](https://github.com/rwzc/podcasts) that I love
 
 ## My interests 
 - Running, 
