@@ -1,10 +1,7 @@
 ### Hello there 👋,
 
-I would say I'm a generalist across domains, looking to specialize in a domain in the future. Pretty much I like to use data to create meaningful and actionable insights in my work and side projects. 
-
+I would say I'm a generalist across domains, looking to specialize in a domain in the future. 
 Overall, just trying to do better. 
-
-The markets are humbling, so stay humble.
 
 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/rwzc/) | [6d4134hb6@relay.firefox.com](mailto:6d4134hb6@relay.firefox.com)
 
@@ -13,7 +10,6 @@ The markets are humbling, so stay humble.
 - 👀 I’m interested in the financial markets, automation, crypto.
 - 🌱 I'm currently learning C++, SQL
 - 👨‍💻 with experience in Python, JavaScript, SQL.
-- Busy working on a eCommerce startup
 
 ## Some fun stuff
 - 📖 [A list of books](https://github.com/rwzc/books) that I've found interesting and helpful 
